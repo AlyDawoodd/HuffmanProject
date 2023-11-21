@@ -1,0 +1,15 @@
+int trial = strlen(strFC) / 8;
+	int reminder = strlen(strFC) - (trial*8);
+	for (int i = 0; i < trial*8; i = i + 8) { // loop to check that there's no reminder // i <=?
+		for (o = i; o < i+8; o++) { // loop to take every 8 number
+			str8[k] = strFC[o];
+			k++;
+
+		}
+		k = 0;
+		w = FromBtoChar(str8); // the char that = 8 binary number
+		fputc(w, OUT);
+		counter1++;
+	}
+	reminder = 8-reminder;
+

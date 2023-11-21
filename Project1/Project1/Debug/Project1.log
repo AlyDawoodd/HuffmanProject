@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Project1\Source.cpp(35,1): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Project1\Source.cpp(35,11): warning C4309: '=': truncation of constant value
+C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Project1\Source.cpp(363,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Project1\Source.cpp(377,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Project1\Source.cpp(476,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Project1\Source.cpp(492,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Project1\Source.cpp(505,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Project1\Source.cpp(515,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Project1\Source.cpp(587,11): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\user\OneDrive\Desktop\final ds project huffman\final\Project1\Debug\Project1.exe
